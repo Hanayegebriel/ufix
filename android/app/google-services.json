@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443546116987",
+    "project_id": "gdscufix2",
+    "storage_bucket": "gdscufix2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443546116987:android:83db6c66ba011cb485d3de",
+        "android_client_info": {
+          "package_name": "com.truman.ufix.ufixfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443546116987-e18kl4h0gngec8id3qc0jb2qebempjlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnPtaCIOpZFACwnXwYg9uigT7uJtZ5zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443546116987-e18kl4h0gngec8id3qc0jb2qebempjlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
